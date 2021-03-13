@@ -2,7 +2,7 @@ name: fengwuxp_dart_openfeign
 description: openfeign dart .
 version: 0.0.3
 author: fengwuxp
-homepage: https://github.com/fengwuxp/dart_openfeign
+homepage: https://github.com/RichsJeson/dart_openfeign
 
 environment:
   sdk: '>=2.10.0 <3.0.0'
